@@ -4012,6 +4012,12 @@ figure.vimeo a img, figure.youtube a img {
 .nav-top-bar .nav-top-social li.facebook a:hover{
 	color:#3b5998;
 }
+.nav-top-bar .nav-top-social li.angellist a:hover{
+	color:#000;
+}
+.nav-top-bar .nav-top-social li.linkedin a:hover{
+	color:#4875B4;
+}
 .nav-top-bar .nav-top-social li.google a:hover{
 	color:#df4a32;
 }
@@ -4038,6 +4044,12 @@ figure.vimeo a img, figure.youtube a img {
 }
 .nav-top-bar .nav-top-social li.facebook a:before{
 	background-color:#3b5998;
+}
+.nav-top-bar .nav-top-social li.angellist a:before{
+	background-color:#000;
+}
+.nav-top-bar .nav-top-social li.linkedin a:before{
+	background-color:#4875B4;
 }
 .nav-top-bar .nav-top-social li.google a:before{
 	background-color:#df4a32;
@@ -4958,6 +4970,12 @@ figure.vimeo a img, figure.youtube a img {
 .hero-social li.facebook a:hover{
 	color:#3b5998;
 }
+.hero-social li.angellist a:hover{
+	color:#000;
+}
+.hero-social li.linkedin a:hover{
+	color:#4875B4;
+}
 .hero-social li.google a:hover{
 	color:#df4a32;
 }
@@ -4984,6 +5002,12 @@ figure.vimeo a img, figure.youtube a img {
 }
 .hero-social li.facebook a:before{
 	background-color:#3b5998;
+}
+.hero-social li.angellist a:before{
+	background-color:#000;
+}
+.hero-social li.linkedin a:before{
+	background-color:#4875B4;
 }
 .hero-social li.google a:before{
 	background-color:#df4a32;
@@ -5271,6 +5295,12 @@ figure.vimeo a img, figure.youtube a img {
 .team-box-1 .team-social li.facebook a:hover{
 	color:#3b5998;
 }
+.team-box-1 .team-social li.angellist a:hover{
+	color:#000;
+}
+.team-box-1 .team-social li.linkedin a:hover{
+	color:#4875B4;
+}
 .team-box-1 .team-social li.google a:hover{
 	color:#df4a32;
 }
@@ -5297,6 +5327,12 @@ figure.vimeo a img, figure.youtube a img {
 }
 .team-box-1 .team-social li.facebook a:before{
 	background-color:#3b5998;
+}
+.team-box-1 .team-social li.angellist a:before{
+	background-color:#000;
+}
+.team-box-1 .team-social li.linkedin a:before{
+	background-color:#4875B4;
 }
 .team-box-1 .team-social li.google a:before{
 	background-color:#df4a32;
@@ -5442,8 +5478,14 @@ figure.vimeo a img, figure.youtube a img {
 .team-box-2 .team-social li.facebook a:hover{
 	color:#3b5998;
 }
+.team-box-2 .team-social li.angellist a:hover{
+	color:#000;
+}
+.team-box-2 .team-social li.linkedin a:hover{
+	color:#4875B4;
+}
 .team-box-2 .team-social li.google a:hover{
-	color:#df4a32;
+	color:#df4a32; 
 }
 .team-box-2 .team-social li.vimeo a:hover{
 	color:#1ab7ea;
@@ -5469,8 +5511,14 @@ figure.vimeo a img, figure.youtube a img {
 .team-box-2 .team-social li.facebook a:before{
 	background-color:#3b5998;
 }
+.team-box-2 .team-social li.angellist a:before{
+	background-color:#000;
+}
+.team-box-2 .team-social li.linkedin a:before{
+	background-color:#4875B4;
+}
 .team-box-2 .team-social li.google a:before{
-	background-color:#df4a32;
+	background-color:#df4a32; 
 }
 .team-box-2 .team-social li.vimeo a:before{
 	background-color:#1ab7ea;
@@ -7170,6 +7218,12 @@ ul.countdown li p {
 .post-social li.facebook a:hover{
 	color:#3b5998;
 }
+.post-social li.angellist a:hover{
+	color:#000;
+}
+.post-social li.linkedin a:hover{
+	color:#4875B4;
+}
 .post-social li.google a:hover{
 	color:#df4a32;
 }
@@ -7196,6 +7250,12 @@ ul.countdown li p {
 }
 .post-social li.facebook a:before{
 	background-color:#3b5998;
+}
+.post-social li.angellist a:before{
+	background-color:#000;
+}
+.post-social li.linkedin a:before{
+	background-color:#4875B4;
 }
 .post-social li.google a:before{
 	background-color:#df4a32;
@@ -7642,7 +7702,7 @@ input[type=number]::-webkit-outer-spin-button{
 
 
 .footer-1 .logo-footer-100 img{
-	width: 100px;
+	width: 60px;
 	display: block;
 }
 .footer-1 h6{
@@ -7803,6 +7863,12 @@ input[type=number]::-webkit-outer-spin-button{
 .footer-1 .footer-social li.facebook a:hover{
 	color:#3b5998;
 }
+.footer-1 .footer-social li.angellist a:hover{
+	color:#000;
+}
+.footer-1 .footer-social li.linkedin a:hover{
+	color:#4875B4;
+}
 .footer-1 .footer-social li.google a:hover{
 	color:#df4a32;
 }
@@ -7830,8 +7896,14 @@ input[type=number]::-webkit-outer-spin-button{
 .footer-1 .footer-social li.facebook a:before{
 	background-color:#3b5998;
 }
+.footer-1 .footer-social li.angellist a:before{
+	background-color:#000;
+}
+.footer-1 .footer-social li.linkedin a:before{
+	background-color:#4875B4;
+}
 .footer-1 .footer-social li.google a:before{
-	background-color:#df4a32;
+	background-color:#df4a32; 
 }
 .footer-1 .footer-social li.vimeo a:before{
 	background-color:#1ab7ea;
